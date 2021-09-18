@@ -2,4 +2,5 @@ RENCANA KONTEN JAVA PROGRAMMER
 
 - menjadi java programmer
   - menguasai bahasa java
+  - programmer java di google
 - ahli java programmer
