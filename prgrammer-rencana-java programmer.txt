@@ -1,4 +1,5 @@
 RENCANA KONTEN JAVA PROGRAMMER
 
-- menjadi java programer
+- menjadi java programmer
+  - menguasai bahasa java
 - ahli java programmer
